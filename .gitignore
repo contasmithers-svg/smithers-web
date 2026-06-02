@@ -1,0 +1,23 @@
+# Smithers Web — .gitignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temp / Cache
+__pycache__/
+*.pyc
+.hermes/
+
+# Backups (directorios de backup del proyecto)
+smithers-web-BACKUP_*
+smithers-web-BACKUP-*
+
+# Zip de deploy
+*.zip
