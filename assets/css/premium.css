@@ -20,4 +20,16 @@
 .mobile-hero-nav a{display:flex;align-items:center;gap:8px;background:rgba(0,0,0,.6);backdrop-filter:blur(8px);border:1px solid rgba(255,255,255,.15);border-radius:14px;padding:14px 12px;color:#fff;font-weight:700;font-size:.92rem;text-align:left;transition:.2s}
 .mobile-hero-nav a:active{background:rgba(255,255,255,.15)}
 .whatsapp-float{position:fixed;right:14px;bottom:22px;z-index:300;background:#25D366;width:58px;height:58px;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 8px 26px rgba(37,211,102,.42);transition:.2s}.whatsapp-float:hover{transform:scale(1.08)}
+
+/* Menu table for two-price items (montado/bocadillo) */
+.menu-table{display:grid;gap:0;width:100%}
+.menu-row{display:grid;grid-template-columns:1fr 100px 100px;padding:10px 0;border-bottom:1px dashed rgba(26,19,14,.18);align-items:center}
+.paper .menu-row{border-bottom-color:rgba(26,19,14,.1)}
+.menu-row.header{font-weight:900;border-bottom:2px solid var(--red);padding-bottom:10px}
+.menu-row span:last-child{text-align:right}
+.menu-row span:nth-child(2){text-align:center}
+.menu-row.header span{color:var(--red)}
+.dark .menu-row.header span{color:var(--gold2)}
+.dark .menu-row.header{border-bottom-color:var(--gold2)}
+@media(max-width:930px){.menu-row{grid-template-columns:1fr 80px 80px;font-size:.9rem;gap:6px}}
 @media(max-width:930px){html,body{overflow-x:hidden;width:100%}.announce .wrap{display:block}.links{display:none}.nav{display:none!important}.mobile-hero-nav{margin-top:0;padding:16px}.hero{min-height:auto;overflow:visible}.hero:before{display:none}.hero-img{position:relative;height:auto;aspect-ratio:16/9;width:100%;inset:auto;opacity:1;filter:none}.hero-stats,.split,.cards.c3,.cards.c4,.menu-grid,.foot,.gallery{grid-template-columns:1fr}.gallery figure:first-child{grid-row:auto}.gallery{grid-auto-rows:230px}.section-head{display:block}.band{grid-template-columns:1fr;padding:20px;overflow:hidden}.section{padding:62px 0}.mobile-actions{display:flex}body{padding-bottom:62px}.photo-card{min-height:330px}.brand img{width:42px;height:42px}.mobile-hero-nav{display:grid!important}.mobile-actions a:nth-child(1),.mobile-actions a:nth-child(3),.mobile-actions a:nth-child(4){background:#4a3524;border-color:rgba(255,255,255,.08)}.whatsapp-float{bottom:105px}.page-hero{padding:34px 0}.hero .wrap{padding:20px 22px 34px;background:var(--bg)}.hero .eyebrow{font-size:.8rem;margin-bottom:4px}.hero h1{font-size:1.4rem}.hero .lead{font-size:.9rem}.hero-stats .stat b{font-size:1.1rem}.hero-stats .stat span{font-size:.75rem}.hero-stats{grid-template-columns:repeat(4,1fr);gap:4px;margin-bottom:10px}.hero-actions{flex-direction:column;gap:8px}.hero-actions .btn{width:100%;text-align:center}.wrap{overflow:hidden}.menu-item strong{word-break:break-word}.menu-item{word-break:break-word}.card{overflow:hidden;word-break:break-word}.menu-item.stack{flex-direction:column;gap:4px}.menu-item.stack span:last-child{white-space:normal}.mobile-hero-nav a{font-size:.82rem;padding:12px 10px;word-break:keep-all}.hero-stats .stat{padding:8px 6px;text-align:center}.hero-stats .stat b{font-size:.95rem}.hero-stats .stat span{font-size:.65rem;word-break:break-word}.photo-card img{max-width:100%}.photo-card{max-width:100%}.gallery figure img{max-width:100%}.band .hero-actions .btn{font-size:.88rem;padding:11px 14px}}
