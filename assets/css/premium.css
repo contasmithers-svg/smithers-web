@@ -26,6 +26,7 @@
 .menu-row{display:grid;grid-template-columns:1fr 100px 100px;padding:10px 0;border-bottom:1px dashed rgba(26,19,14,.18);align-items:center}
 .paper .menu-row{border-bottom-color:rgba(26,19,14,.1)}
 .menu-row.header{font-weight:900;border-bottom:2px solid var(--red);padding-bottom:10px}
+.menu-row span:first-child{font-weight:900}
 .menu-row span:last-child{text-align:right}
 .menu-row span:nth-child(2){text-align:center}
 .menu-row.header span{color:var(--red)}
