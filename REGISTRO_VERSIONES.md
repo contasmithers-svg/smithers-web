@@ -59,7 +59,35 @@
 - **Estado actual:** Web en producción, accesible vía `https://smithersrestaurant.com` y `https://smithers-restaurant.pages.dev`
 - **Para cambios futuros:** modificar archivos, empaquetar en zip, subir a Cloudflare Pages dashboard → nuevo deployment
 
+## 🔥 Cambios SEO — 04/06/2026
+- **✅ Google Search Console:** Propiedad `smithersrestaurant.com` verificada vía TXT DNS en Cloudflare
+- **✅ Cobertura:** Issues identificados (3 indexadas, 10 noindex, 6 404, 4 redirect, 1 canonical alt, 3 discovered) y corregidos
+- **✅ Canónicas limpias:** Todas las canonical URLs sin `.html` (13 páginas)
+- **✅ Sitemap reescrito:** 13 URLs limpias con prioridades y changefreq
+- **✅ Validate Fix:** Solicitado en Search Console para los 6 issue types
+- **✅ Sitemap subido:** `sitemap.xml` con URLs limpias en Search Console
+- **✅ WebP:** 60 imágenes JPG/PNG → WebP (-48% peso). Todas con `<picture>` + fallback
+- **✅ Horario finde:** "Cerrado sábados, domingos y festivos" en textos visibles y FAQ
+- **✅ CID Google Maps real:** `17847721193954781420` en Schema sameAs (11 páginas)
+- **✅ Commits:** `65d5912` (seo), `6b19fed` (canónicas+sitemap), `9c53b3d` (horario), `8fc1bec` (CID)
+- **📦 Backups creados:** `smithers-web-BACKUP_20260604_114522` + `smithers-web-BACKUP_20260604_162525`
+
 ## BACKUPS DISPONIBLES (orden cronológico inverso)
+
+### NUEVO — 20260604_235148
+**Ruta:** `/home/gondss/Escritorio/KAI/pagina-web/smithers-web-BACKUP_20260604_235148`
+**Contiene:** v=28, tras SEO completo. Search Console ✅, canónicas limpias, sitemap reescrito, WebP 60 imágenes (-48%), horario finde cerrado, CID Maps real en sameAs (11 páginas). Commit `8fc1bec`.
+**Para restaurar:** `cp -a smithers-web-BACKUP_20260604_235148/* smithers-web/`
+
+### 7. NUEVO — 20260604_162525
+**Ruta:** `/home/gondss/Escritorio/KAI/pagina-web/smithers-web-BACKUP_20260604_162525`
+**Contiene:** v=28, tras añadir CID de Google Maps (IA Session).
+**Para restaurar:** `cp -a smithers-web-BACKUP_20260604_162525/* smithers-web/`
+
+### 8. NUEVO — 20260604_114522
+**Ruta:** `/home/gondss/Escritorio/KAI/pagina-web/smithers-web-BACKUP_20260604_114522`
+**Contiene:** v=28, justo antes de comenzar sesión SEO — Search Console sin verificar.
+**Para restaurar:** `cp -a smithers-web-BACKUP_20260604_114522/* smithers-web/`
 
 ### NUEVO — 20260602_113143
 **Ruta:** `/home/gondss/Escritorio/KAI/pagina-web/smithers-web-BACKUP_20260602_113143`
