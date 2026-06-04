@@ -6,62 +6,62 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/carta.html</loc>
+    <loc>https://smithersrestaurant.com/carta</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/menu-del-dia.html</loc>
+    <loc>https://smithersrestaurant.com/menu-del-dia</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/menu-shelby.html</loc>
+    <loc>https://smithersrestaurant.com/menu-shelby</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/desayunos.html</loc>
+    <loc>https://smithersrestaurant.com/desayunos</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/entre-panes.html</loc>
+    <loc>https://smithersrestaurant.com/entre-panes</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/delivery.html</loc>
+    <loc>https://smithersrestaurant.com/delivery</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/take-away.html</loc>
+    <loc>https://smithersrestaurant.com/take-away</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/reservas.html</loc>
+    <loc>https://smithersrestaurant.com/reservas</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/eventos.html</loc>
+    <loc>https://smithersrestaurant.com/eventos</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/aviso-legal.html</loc>
+    <loc>https://smithersrestaurant.com/aviso-legal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/privacidad.html</loc>
+    <loc>https://smithersrestaurant.com/privacidad</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://smithersrestaurant.com/legal.html</loc>
+    <loc>https://smithersrestaurant.com/legal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
