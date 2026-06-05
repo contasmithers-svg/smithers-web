@@ -51,6 +51,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.smithersrestaurant.com/empresas</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.smithersrestaurant.com/aviso-legal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
