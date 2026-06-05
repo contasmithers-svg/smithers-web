@@ -33,4 +33,4 @@ User-agent: Amazonbot
 Disallow: /
 
 # Sitemap
-Sitemap: https://smithersrestaurant.com/sitemap.xml
+Sitemap: https://www.smithersrestaurant.com/sitemap.xml
