@@ -1,40 +1,147 @@
-# Smithers Restaurant
-https://www.smithersrestaurant.com
+# Smithers Restaurant — llms.txt
 
-## Información general
-Restaurante en C/ Albasanz 16, 28037 Madrid (zona Julián Camarillo).
-Teléfono: +34 911 699 622
-Email: smithersrestaurant@gmail.com
-Instagram: https://www.instagram.com/smithers_restaurant/
-Facebook: https://www.facebook.com/people/Smithers-Restaurant/61588168375109/
-Google Maps: https://www.google.com/maps?cid=17847721193954781420
+> Información estructurada de Smithers Restaurant para LLMs. Datos completos del restaurante, carta y servicios.
+
+## Información General
+
+- **Nombre:** Smithers Restaurant
+- **Dirección:** C/ Albasanz 16, 28037 Madrid
+- **Teléfono:** +34 911 699 622
+- **WhatsApp:** +34 624 868 537
+- **Email:** smithersrestaurant@gmail.com
+- **Web:** https://www.smithersrestaurant.com
+- **Tipo:** Restaurante de cocina casera y fusión
+- **Instagram:** @smithers_restaurant
+- **Facebook:** Smithers Restaurant
+- **Google Maps CID:** 17847721193954781420
 
 ## Horario
-Lunes a viernes: 7:00 – 17:00
-Cerrado sábados, domingos y festivos.
+
+| Día | Horario |
+|-----|---------|
+| Lunes a viernes | 7:00 – 17:00 |
+| Sábado | Cerrado |
+| Domingo | Cerrado |
+| Festivos | Cerrado |
+
+**Desayunos:** desde las 7:00  
+**Comida:** desde las 13:00
 
 ## Servicios
-- Menú del día (16,50 €): primer plato, segundo, postre, pan y bebida
-- Menú Shelby (14,50 €): plato contundente con bebida
-- Carta con 42 platos (costillas BBQ, hamburguesas, tosta de atún, bacalao, etc.)
-- Desayunos desde las 7:00
-- Take away (desde 13,90 €)
-- Delivery vía Glovo
-- Eventos y catering para grupos (hasta 140 personas) y cócteles de empresa (hasta 180)
 
-## Páginas principales
-- Inicio: https://www.smithersrestaurant.com/
-- Carta: https://www.smithersrestaurant.com/carta
-- Menú del día: https://www.smithersrestaurant.com/menu-del-dia
-- Menú Shelby: https://www.smithersrestaurant.com/menu-shelby
-- Entre panes: https://www.smithersrestaurant.com/entre-panes
-- Desayunos: https://www.smithersrestaurant.com/desayunos
-- Take away: https://www.smithersrestaurant.com/take-away
-- Delivery: https://www.smithersrestaurant.com/delivery
-- Eventos: https://www.smithersrestaurant.com/eventos
-- Reservas: https://www.smithersrestaurant.com/reservas
-- Aviso legal: https://www.smithersrestaurant.com/aviso-legal
+- **Menú del día:** 16,50 € (primero + segundo + postre + pan + bebida)
+- **Menú Shelby:** 14,50 € (plato + bebida)
+- **Take away:** desde 13,90 €
+- **Delivery:** a través de Glovo
+- **Eventos:** hasta 140 / 180 personas
+- **Catering para empresas**
+- **Comer en el local**
+- **Terraza** (según disponibilidad)
 
-## Sobre Smithers
-Cocina casera española. Precio: €€. Valoración media: 4,3/5 (120 reseñas).
-Acepta reservas. Zona de Albasanz y Julián Camarillo, Madrid.
+## Carta Completa
+
+### Primeros
+
+| Plato | Precio |
+|-------|--------|
+| Cuchara del día | 7,00 € |
+| Gyozas de verduras con teriyaki | 7,00 € |
+| Chicharrón de Cádiz con tonnato | 8,50 € |
+| Arroz a la cubana | 7,00 € |
+| Risotto de hongos | 9,00 € |
+| Arroz negro con alioli | 9,00 € |
+| Guisantes con jamón y huevo poché | 9,00 € |
+| Pisto de verduras con huevo | 9,00 € |
+| Alcachofas con jamón | 9,00 € |
+| Calabacines rebozados con curry | 8,00 € |
+| Ensaladilla de atún | 7,00 € |
+| Ensalada mixta | 8,00 € |
+| Ensalada de queso de cabra y nueces | 9,50 € |
+| Ensalada camembert con jamón | 9,50 € |
+| César con pollo | 10,00 € |
+| Tallarines con chorizo a la riojana | 8,50 € |
+| Carbonara | 9,00 € |
+
+### Segundos
+
+| Plato | Precio |
+|-------|--------|
+| Pollo marinado al teriyaki | 10,00 € |
+| Pechuga a la plancha | 9,50 € |
+| Pechuga empanada | 10,00 € |
+| Wok de cerdo thai | 10,50 € |
+| Chipirones a la andaluza | 10,50 € |
+| Atún rojo yellowfin con tomate | 12,50 € |
+| Paella de marisco | 11,00 € |
+| Albóndigas caseras | 9,50 € |
+| Lomo katsukare | 11,00 € |
+| Albóndigas de merluza y calamar | 11,50 € |
+| Costillas al hoisin | 11,00 € |
+| Secreto al chimichurri | 11,00 € |
+| Aguja al vino tinto | 12,00 € |
+| Merluza en salsa verde | 12,50 € |
+| Bacalao a la bilbaína | 13,00 € |
+| Hamburguesa pulled pork | 13,00 € |
+| Hamburguesa de pollo teriyaki | 13,00 € |
+
+### Postres
+
+| Plato | Precio |
+|-------|--------|
+| Café o té | 1,80 € |
+| Natillas con crumble | 2,50 € |
+| Flan de huevo | 2,50 € |
+| Tarta de zanahoria | 2,50 € |
+| Contesa helada | 2,50 € |
+| Cono de cookie | 2,50 € |
+| Piña natural | 2,50 € |
+| Tarta de queso Smithers | 3,00 € |
+
+### Básicos / Bebidas
+
+- Amstel (cerveza)
+- Cafés Camali
+- Agua KM0
+
+## FAQ — Preguntas Frecuentes
+
+### 1. ¿Cuál es el horario del restaurante?
+Abrimos de lunes a viernes de 7:00 a 17:00. Cerramos sábados, domingos y festivos. Los desayunos se sirven desde las 7:00 y las comidas desde las 13:00.
+
+### 2. ¿Cuánto cuesta el menú del día?
+El menú del día tiene un precio de **16,50 €** e incluye primero, segundo, postre, pan y bebida. También disponemos del **Menú Shelby** por **14,50 €** (plato + bebida).
+
+### 3. ¿Ofrecen take away o delivery?
+Sí. El take away está disponible desde **13,90 €**. También puedes pedir delivery a través de **Glovo**.
+
+### 4. ¿Hacen eventos y catering?
+Sí. Organizamos eventos para grupos de hasta **140 personas** (hasta 180 bajo consulta). También ofrecemos servicio de **catering para empresas**. Consulta disponibilidad y presupuesto llamando al +34 911 699 622 o por WhatsApp.
+
+### 5. ¿Cómo puedo reservar una mesa?
+Puedes llamarnos al **+34 911 699 622**, escribirnos por **WhatsApp al +34 624 868 537**, o enviar un email a **smithersrestaurant@gmail.com**.
+
+### 6. ¿Tienen opciones vegetarianas?
+Sí. Entre nuestros primeros platos encontrarás opciones vegetarianas como el risotto de hongos, pisto de verduras con huevo, calabacines rebozados con curry, ensaladilla de atún y varias ensaladas.
+
+### 7. ¿Aceptan tarjetas de crédito?
+Sí, aceptamos pagos con tarjeta de crédito y débito, así como efectivo.
+
+### 8. ¿Dónde estáis ubicados?
+Estamos en **C/ Albasanz 16, 28037 Madrid**. Puedes encontrarnos fácilmente en Google Maps.
+
+### 9. ¿Tenéis terraza?
+Sí, disponemos de terraza según disponibilidad. Pregunta al reservar o al llegar.
+
+### 10. ¿Ofrecéis desayunos?
+Sí, servimos desayunos desde las **7:00** de lunes a viernes.
+
+## Enlaces
+
+- [Web oficial](https://www.smithersrestaurant.com)
+- [Instagram](https://www.instagram.com/smithers_restaurant)
+- [Facebook](https://www.facebook.com/SmithersRestaurant)
+- [Google Maps](https://www.google.com/maps?cid=17847721193954781420)
+- [Glovo — Delivery](https://www.glovoapp.com)
+- [Email](mailto:smithersrestaurant@gmail.com)
+- [Teléfono](tel:+34911699622)
+- [WhatsApp](https://wa.me/34624868537)

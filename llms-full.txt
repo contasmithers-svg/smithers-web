@@ -1,0 +1,463 @@
+# Smithers Restaurant — Documentación completa del sitio web
+
+https://www.smithersrestaurant.com
+
+Documentación auto-contenida para AI crawlers. Este documento cubre la totalidad del sitio web de Smithers Restaurant: información general, contacto, horarios, menú completo con todos los platos y precios, menú del día, menú Shelby, desayunos, entre panes, take away, delivery, eventos, catering, reseñas, FAQ y enlaces.
+
+---
+
+## Información general
+
+Smithers Restaurant es un bar-restaurante de cocina casera española e internacional ubicado en el polígono de Julián Camarillo, Madrid. Abierto de lunes a viernes, especializado en dar servicio a trabajadores de oficinas de la zona con desayunos desde primera hora, menú del día, platos contundentes, take away rápido y delivery. También organiza eventos corporativos y catering para empresas.
+
+- **Dirección:** C/ Albasanz 16, 28037 Madrid (zona Julián Camarillo)
+- **Coordenadas:** 40.4342, -3.6321
+- **Precio:** €€ (rango medio)
+- **Cocina:** Española, Internacional, Cocina casera
+- **Valoración media:** 4,3/5 sobre 120 reseñas en Google
+- **Acepta reservas:** Sí, vía Google Maps Reserve, teléfono, WhatsApp o email
+
+---
+
+## Contacto
+
+| Canal | Dato |
+|---|---|
+| Teléfono | +34 911 699 622 |
+| Email | smithersrestaurant@gmail.com |
+| WhatsApp | wa.me/34624868537 |
+| Google Maps | https://www.google.com/maps?cid=17847721193954781420 |
+| Google Maps Reserve | https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc |
+| Glovo | https://glovoapp.com/es/es/madrid/stores/smithers-restaurant-madrid |
+
+---
+
+## Horario
+
+- **Lunes a viernes:** 7:00 – 17:00
+- **Sábados:** Cerrado
+- **Domingos:** Cerrado
+- **Festivos:** Cerrado
+
+Los desayunos se sirven de 7:00 a 12:30.
+El menú del día y menú Shelby se sirven de 13:00 a 16:00 (solo mediodía).
+
+---
+
+## Enlaces del sitio
+
+| Página | URL |
+|---|---|
+| Inicio | https://www.smithersrestaurant.com/ |
+| Carta | https://www.smithersrestaurant.com/carta |
+| Menú del día | https://www.smithersrestaurant.com/menu-del-dia |
+| Menú Shelby | https://www.smithersrestaurant.com/menu-shelby |
+| Entre panes | https://www.smithersrestaurant.com/entre-panes |
+| Desayunos | https://www.smithersrestaurant.com/desayunos |
+| Take away | https://www.smithersrestaurant.com/take-away |
+| Delivery | https://www.smithersrestaurant.com/delivery |
+| Eventos | https://www.smithersrestaurant.com/eventos |
+| Reservas | https://www.smithersrestaurant.com/reservas |
+| Aviso legal | https://www.smithersrestaurant.com/aviso-legal |
+
+---
+
+## Redes sociales
+
+- **Instagram:** https://www.instagram.com/smithers_restaurant/
+- **Facebook:** https://www.facebook.com/people/Smithers-Restaurant/61588168375109/
+- **Google Maps:** https://www.google.com/maps?cid=17847721193954781420
+
+---
+
+## Carta completa — 42 platos con precios
+
+Todos los platos de la carta disponibles también para llevar. Precios en euros.
+
+### Primeros (17 platos)
+
+| Plato | Precio |
+|---|---|
+| Cuchara del día | 7,00€ |
+| Gyozas de verduras con salsa teriyaki | 7,00€ |
+| Chicharrón de Cádiz casero tonnato con alcaparras | 8,50€ |
+| Arroz a la cubana | 7,00€ |
+| Risotto de hongos y setas | 9,00€ |
+| Arroz negro con alioli | 9,00€ |
+| Guisantes con jamón y huevo poché | 9,00€ |
+| Pisto de verduras al grill con huevo frito | 9,00€ |
+| Alcachofas con jamón | 9,00€ |
+| Calabacines rebozados con salsa de curry | 8,00€ |
+| Ensaladilla a nuestra manera con salsa de atún | 7,00€ |
+| Ensalada mixta de toda la vida con atún | 8,00€ |
+| Ensalada de queso de cabra con nueces caramelizadas y pasas | 9,50€ |
+| Ensalada de queso camembert con jamón reserva | 9,50€ |
+| Ensalada César con churritos de pollo | 10,00€ |
+| Tallarines con chorizo a la riojana | 8,50€ |
+| Tallarines a la carbonara | 9,00€ |
+
+### Segundos (17 platos)
+
+| Plato | Precio |
+|---|---|
+| Filete de contramuslo de pollo marinado con arroz y salsa teriyaki | 10,00€ |
+| Pechuga de pollo a la plancha con patatas fritas o ensalada | 9,50€ |
+| Pechuga de pollo empanada con patatas fritas o ensalada | 10,00€ |
+| Wok de cerdo thai con verduras al grill y crema de boniato | 10,50€ |
+| Chipirones a la andaluza con patatas fritas y alioli | 10,50€ |
+| Atún rojo yellowfin con tomate a la riojana y patatas horneadas | 12,50€ |
+| Paella de marisco | 11,00€ |
+| Albóndigas caseras con patatas fritas y arroz blanco | 9,50€ |
+| Lomo de cerdo asado katsukare con salsa de curry japonés y arroz | 11,00€ |
+| Albóndigas de merluza y calamar con alcachofas en salsa verde y arroz | 11,50€ |
+| Costillas asadas con salsa hoisin/miel y patatas fritas | 11,00€ |
+| Secreto de cerdo con puré de patatas, verduras y salsa chimichurri | 11,00€ |
+| Aguja de cerdo asada al vino tinto con patatas horneadas y brócoli | 12,00€ |
+| Merluza en salsa verde con menestra | 12,50€ |
+| Bacalao a la bilbaína con judías verdes | 13,00€ |
+| Hamburguesa brioche de pulled pork barbacoa con ensalada de col americana y patatas fritas | 13,00€ |
+| Hamburguesa brioche de pollo teriyaki con mayonesa de sriracha, lechuga y patatas fritas | 13,00€ |
+
+### Postres (8 platos)
+
+| Plato | Precio |
+|---|---|
+| Café o té | 1,80€ |
+| Natillas con galleta crumble | 2,50€ |
+| Flan | 2,50€ |
+| Tarta de zanahoria casera | 2,50€ |
+| Contesa helada | 2,50€ |
+| Cono helado cookie | 2,50€ |
+| Piña natural | 2,50€ |
+| Tarta de queso Smithers Style | 3,00€ |
+
+### Nuestros básicos
+
+- **Cerveza Amstel** — 100% pura malta de la mejor cebada tostada desde 1870
+- **Cafés Camali** — 100% arábica de altura, tueste natural
+- **Agua KM0** — Cero CO₂, cero plásticos, micro filtrada al momento
+
+---
+
+## Menú del día — 16,50€
+
+Disponible de lunes a viernes de 13:00 a 16:00.
+
+**Incluye:** primero + segundo + postre + pan + bebida (agua, agua con gas, refresco, doble cerveza de tiro o copa de vino blanco/tinto).
+
+**Suplementos:**
+- Segundo refresco: +1,00€
+- Tercio de cerveza: +2,00€
+- Segunda ración de pan: +0,50€
+- Pan sin gluten: +0,50€
+
+### Primeros (opciones del menú)
+- Cuchara del día
+- Chicharrón de Cádiz casero tonnato con alcaparras
+- Gyozas de verduras con salsa teriyaki
+- Arroz a la cubana
+- Risotto de hongos y setas
+- Arroz negro con alioli
+- Guisantes con jamón y huevo poché
+- Pisto de verduras al grill con huevo frito
+- Alcachofas con jamón
+- Calabacines rebozados con salsa de curry
+- Ensaladilla a nuestra manera con salsa de atún
+- Ensalada mixta de toda la vida con atún
+- Ensalada de queso de cabra con nueces caramelizadas y pasas
+- Ensalada de queso camembert con jamón reserva
+- Ensalada César con churritos de pollo
+- Tallarines con chorizo a la riojana
+- Tallarines a la carbonara
+
+### Segundos (opciones del menú)
+- Filete de contramuslo de pollo marinado con arroz y salsa teriyaki
+- Pechuga de pollo a la plancha con patatas fritas o ensalada
+- Pechuga de pollo empanada con patatas fritas o ensalada
+- Wok de cerdo thai con verduras al grill y crema de boniato
+- Chipirones a la andaluza con patatas fritas y alioli
+- Atún rojo yellowfin con tomate a la riojana y patatas horneadas
+- Paella de marisco
+- Albóndigas caseras con patatas fritas y arroz
+- Lomo de cerdo asado katsukare con salsa de curry japonés y arroz
+- Albóndigas de merluza y calamar con alcachofas en salsa verde y arroz
+- Costillas asadas con salsa hoisin/miel y patatas fritas
+- Secreto de cerdo con puré de patatas, verduras y salsa chimichurri
+- Merluza en salsa verde con menestra
+- Aguja de cerdo asada al vino tinto con patatas horneadas y brócoli
+- Bacalao a la bilbaína con judías verdes
+
+### Postres (opciones del menú)
+- Café o té
+- Natillas con galleta crumble
+- Flan
+- Tarta de zanahoria casera
+- Contesa helada
+- Cono helado cookie
+- Piña natural
+- Tarta de queso Smithers Style
+
+---
+
+## Menú Shelby — 14,50€
+
+Disponible de lunes a viernes de 13:00 a 16:00 (solo mediodía).
+
+**Incluye:** un plato contundente a elegir + bebida (agua, agua con gas, refresco, cerveza de tiro o vino).
+
+**Suplementos:**
+- Segundo refresco: +1,00€
+- Cambio a tercio de cerveza: +2,00€
+
+### Platos contundentes (8 opciones)
+
+1. **Pechuga de pollo empanada o a la plancha** — con patatas fritas y ensaladilla a nuestra manera con salsa de atún
+2. **Aguja de cerdo asada** — con puré de patatas y alcachofas con jamón
+3. **Contramuslo de pollo marinado** — con arroz, gyozas de verduras y salsa teriyaki
+4. **Costillas de cerdo asadas** — con salsa hoisin/miel, patatas fritas y ensalada de col americana
+5. **Secreto de cerdo** — con puré de patatas, verduras, salsa chimichurri y ensalada con vinagreta César y croutons
+6. **Wok de cerdo thai** — con verduras al grill, crema de boniato y arroz
+7. **Hamburguesa brioche de pulled pork barbacoa** — con ensalada de col americana y patatas fritas
+8. **Hamburguesa brioche de pollo teriyaki** — con mayonesa de sriracha (pica un poco), lechuga y patatas fritas
+
+---
+
+## Desayunos — De 7:00 a 12:30
+
+Disponibles de lunes a viernes desde las 7:00 hasta las 12:30.
+
+### Bebidas
+| Producto | Solo | Con café incluido |
+|---|---|---|
+| Café / infusión | 1,80€ | — |
+| Café bombón / café doble / cappuccino / Colacao | 2,30€ | — |
+| Zumo de naranja natural | 3,00€ | — |
+| Añade un zumo a tu menú | +2,00€ | — |
+| Cambia café por Colacao | +0,50€ | — |
+| Cambia café por refresco / zumo | +1,00€ | — |
+
+### Tostadas (elige pan: integral, leña, centeno o mollete)
+| Tostada | Solo | Con café |
+|---|---|---|
+| AOVE | 2,00€ | 3,00€ |
+| Tomate aliñado AOVE | 2,00€ | 3,35€ |
+| Mantequilla y mermelada | 2,00€ | 3,35€ |
+| Jamón serrano reserva con tomate | 4,90€ | 5,90€ |
+
+### Dulces recién horneados
+| Producto | Solo | Con café |
+|---|---|---|
+| Donut glaseado / chocolate | 2,00€ | 3,20€ |
+| Napolitana chocolate / crema | 2,00€ | 3,20€ |
+| Porras (2 piezas) | 2,00€ | 3,40€ |
+| Churros (2 piezas) | 2,00€ | 3,20€ |
+| Croissant gourmet | 2,50€ | 3,50€ |
+| Croissant mixto | 4,50€ | 6,00€ |
+| Croissant gourmet tostado | 3,00€ | 4,50€ |
+
+### Tortillas
+| Producto | Solo | Con café |
+|---|---|---|
+| Pincho de tortilla | 3,80€ | 5,30€ |
+| Pincho de tortilla especial | 4,80€ | 5,90€ |
+
+### Desayunos saludables
+| Producto | Solo | Con café |
+|---|---|---|
+| Pavo, huevo revuelto y AOVE | 3,30€ | 4,80€ |
+| Aguacate, tomate, huevo revuelto y AOVE | 4,00€ | 5,50€ |
+
+### Platos healthy (con media barrita integral)
+| Producto | Solo | Con café |
+|---|---|---|
+| Pavo, huevos y tomate | 5,90€ | 7,40€ |
+| Aguacate, huevos y tomate | 5,90€ | 7,40€ |
+
+### Platos fit (elige huevos fritos, revueltos o a la francesa)
+| Producto | Solo | Con café |
+|---|---|---|
+| Pavo, huevos y patatas fritas | 6,00€ | 7,50€ |
+| Lacón, huevos y patatas fritas | 6,50€ | 8,00€ |
+| Panceta baja temperatura, huevos y patatas | 7,00€ | 8,50€ |
+
+### Montados (opción en bocadillo: +2,00€)
+| Producto | Solo | Con café |
+|---|---|---|
+| Tortilla española / francesa | 4,50€ | 6,00€ |
+| Atún, mezclum, tomate y mayonesa | 5,00€ | 6,50€ |
+| Chorizo criollo con chimichurri | 6,00€ | 7,00€ |
+| Chorizo ibérico a la plancha | 6,00€ | 7,50€ |
+| Bacon y queso | 6,00€ | 7,50€ |
+| Panceta baja temperatura y queso | 6,00€ | 7,50€ |
+| Pechuga de pollo plancha, mayonesa y mezclum | 6,00€ | 7,50€ |
+| Jamón serrano reserva y tomate | 6,00€ | 7,50€ |
+
+### Sándwiches
+| Producto | Solo | Con café |
+|---|---|---|
+| Mixto / Croissant mixto | 4,50€ | 6,00€ |
+| Mixto con huevo frito | 5,50€ | 7,00€ |
+| Vegetal | 6,00€ | 7,50€ |
+
+---
+
+## Entre panes
+
+Página dedicada a bocadillos, montados y sándwiches del restaurante. Enlace: https://www.smithersrestaurant.com/entre-panes
+
+---
+
+## Take away — Para llevar
+
+Pide por teléfono o WhatsApp y recoge en 10-15 minutos.
+
+### Menús para llevar
+| Producto | Precio |
+|---|---|
+| Menú del día completo (primero, segundo y postre) | 15,90€ |
+| Menú sin postre | 14,90€ |
+| Menú Shelby take away (plato contundente con bebida) | 13,90€ |
+
+### Bebidas y extras
+| Producto | Precio |
+|---|---|
+| Refresco 500ml (Coca-Cola, Sprite, Fanta...) | 3,00€ |
+| Agua 500ml | 1,50€ |
+| Café o té | 1,80€ |
+
+Platos de la carta disponibles desde 7,00€. Pide al 911 699 622 o por WhatsApp.
+
+---
+
+## Delivery — A domicilio
+
+Servicio de delivery a través de Glovo. Reparto en zona Julián Camarillo, Albasanz y alrededores (Madrid 28037).
+
+**Disponible en Glovo:** desayunos contundentes, carta completa (arroces, carnes, pescados, ensaladas) y platos Shelby.
+
+Enlace directo: https://glovoapp.com/es/es/madrid/stores/smithers-restaurant-madrid
+
+Todo se cocina en el momento con producto fresco. Pide desde la app de Glovo y llega caliente a tu oficina o casa.
+
+---
+
+## Eventos y catering
+
+Smithers Restaurant dispone de espacio y servicio para eventos corporativos, comidas de grupo, cócteles de empresa y catering para oficinas.
+
+### Tipos de eventos
+
+#### 1. Comidas de grupo (hasta 140 personas)
+Queda con el equipo, celebra algo especial o reúne a los tuyos. Se prepara un menú pensado para el grupo, sin complicaciones. Ideal para comidas de empresa, celebraciones de departamento o reuniones de equipo en la zona Julián Camarillo.
+
+**Reseña destacada — Marta G., RRHH:**
+"Estamos encantados con Smithers para las comidas de equipo. Todo el mundo encuentra algo que le gusta, el servicio es rápido y el precio muy ajustado. Repetimos cada vez que podemos."
+
+#### 2. Cócteles de empresa (hasta 180 personas)
+Evento corporativo con estilo: cóctel, networking y buen ambiente en un espacio diseñado para impresionar. Capacidad para hasta 180 personas en formato cóctel. Perfecto para presentaciones, afterworks, networking o celebraciones empresariales.
+
+**Reseña destacada — Carlos M., Director Financiero:**
+"Llevamos organizando el cóctel de fin de año con Smithers desde hace tres años. El catering es impecable, el equipo súper profesional y la relación calidad-precio inmejorable. Repetimos cada año."
+
+#### 3. Exclusiva del local entero
+El local solo para vosotros. Celebraciones privadas, eventos de empresa o lo que se te ocurra — todo el espacio, todo el control. Ideal para eventos íntimos, presentaciones de producto o reuniones exclusivas.
+
+#### 4. Catering para oficinas
+Servicio de catering para empresas en la zona Albasanz / Julián Camarillo. Menús adaptados a las necesidades del equipo, con opción de entrega en oficina.
+
+### Capacidades
+- Comidas sentadas: hasta 140 personas
+- Cócteles / networking: hasta 180 personas
+- Exclusiva del local: según necesidades
+
+### Cómo solicitar un evento
+Para pedir presupuesto sin compromiso:
+- **WhatsApp:** https://wa.me/34624868537?text=Quiero%20organizar%20un%20evento%20en%20Smithers
+- **Teléfono:** +34 911 699 622
+- **Email:** smithersrestaurant@gmail.com
+
+Indica número de personas, fecha y tipo de evento para recibir una propuesta a medida.
+
+---
+
+## Reservas
+
+Se puede reservar mesa a través de:
+- **Google Maps Reserve:** https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc
+- **Teléfono:** +34 911 699 622
+- **WhatsApp:** https://wa.me/34624868537?text=Hola%2C+quiero+reservar+mesa+en+Smithers
+- **Email:** smithersrestaurant@gmail.com
+
+La reserva con Google está disponible en todas las plataformas (web, móvil, iOS, Android).
+
+---
+
+## Reseñas de clientes
+
+### Valoración general
+- **Google:** 4,3/5 estrellas (120 reseñas)
+
+### Testimonios destacados
+
+**Marta G. — Responsable de RRHH (empresa zona Julián Camarillo):**
+"Estamos encantados con Smithers para las comidas de equipo. Todo el mundo encuentra algo que le gusta, el servicio es rápido y el precio muy ajustado. Repetimos cada vez que podemos."
+
+**Carlos M. — Director Financiero (empresa del Polígono):**
+"Llevamos organizando el cóctel de fin de año con Smithers desde hace tres años. El catering es impecable, el equipo súper profesional y la relación calidad-precio inmejorable. Repetimos cada año."
+
+---
+
+## FAQ — Preguntas frecuentes
+
+### 1. ¿Dónde está Smithers Restaurant?
+Estamos en C/ Albasanz 16, 28037 Madrid, en la zona de Julián Camarillo, muy cerca del polígono empresarial.
+
+### 2. ¿Cuál es el horario de Smithers?
+Abrimos de lunes a viernes de 7:00 a 17:00. Cerramos sábados, domingos y festivos. Los desayunos se sirven hasta las 12:30, y el menú del día / menú Shelby de 13:00 a 16:00.
+
+### 3. ¿Cuánto cuesta el menú del día?
+El menú del día cuesta 16,50€ e incluye primer plato, segundo, postre, pan y bebida. Hay suplementos para bebidas extra o cambios.
+
+### 4. ¿Qué es el menú Shelby?
+El menú Shelby es un plato contundente con bebida por 14,50€, disponible de 13:00 a 16:00. Incluye opciones como costillas, secreto, hamburguesas, wok thai y más.
+
+### 5. ¿Hacen take away?
+Sí, puedes pedir para llevar. El menú del día completo take away cuesta 15,90€, el menú sin postre 14,90€ y el menú Shelby take away 13,90€. Platos de la carta desde 7,00€. Pide por teléfono o WhatsApp y recoge en 10-15 minutos.
+
+### 6. ¿Tienen servicio a domicilio?
+Sí, a través de Glovo. Puedes pedir desayunos, platos de la carta y platos Shelby desde la app de Glovo. Enlace directo: https://glovoapp.com/es/es/madrid/stores/smithers-restaurant-madrid
+
+### 7. ¿Se puede reservar mesa?
+Sí, se puede reservar a través de Google Maps Reserve, por teléfono (911 699 622), WhatsApp o email.
+
+### 8. ¿Hacen eventos para empresas?
+Sí, organizamos comidas de grupo (hasta 140 personas sentadas), cócteles de empresa (hasta 180 personas), exclusiva del local entero y catering para oficinas. Solicita presupuesto sin compromiso.
+
+### 9. ¿Cuánto cuestan los desayunos?
+Los precios van desde 1,80€ (café solo) hasta 8,50€ (plato fit con panceta, huevos y patatas con café). Hay opciones para todos: tostadas desde 2,00€, dulces desde 2,00€, tortillas, saludables, healthy, fit, montados y sándwiches.
+
+### 10. ¿Qué tipo de cocina sirven?
+Cocina casera española e internacional. Platos de cuchara, arroces, carnes, pescados, ensaladas, hamburquesas y postres caseros. Todo fresco y cocinado en el momento.
+
+### 11. ¿Aceptan pagos con tarjeta?
+Sí, se aceptan todo tipo de tarjetas y también efectivo.
+
+### 12. ¿Tienen opciones para personas con alergias o intolerancias?
+Sí, disponemos de pan sin gluten (suplemento +0,50€ en el menú). Consulta con el personal del restaurante para otras necesidades dietéticas y adaptaremos tu pedido.
+
+---
+
+## Servicios destacados
+
+- **Cocina casera** — Platos preparados en el momento con producto fresco
+- **Zona oficinas** — Especializados en dar servicio a trabajadores de la zona Julián Camarillo
+- **Reservas** — A través de Google Maps, teléfono, WhatsApp o email
+- **Take away** — Recoge en minutos llamando por teléfono
+- **Delivery** — A través de Glovo
+- **Eventos** — Grupos hasta 140, cócteles hasta 180, catering
+- **Desayunos** — Desde las 7:00 con opciones para todos los gustos
+- **Parking** — Zona con fácil aparcamiento en el polígono de Julián Camarillo
+
+---
+
+*Documento auto-contenido para AI crawlers. Toda la información corresponde al sitio web https://www.smithersrestaurant.com. Última actualización: junio 2026.*
