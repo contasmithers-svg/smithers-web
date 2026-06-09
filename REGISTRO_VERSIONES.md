@@ -72,6 +72,15 @@
 - **✅ Commits:** `65d5912` (seo), `6b19fed` (canónicas+sitemap), `9c53b3d` (horario), `8fc1bec` (CID)
 - **📦 Backups creados:** `smithers-web-BACKUP_20260604_114522` + `smithers-web-BACKUP_20260604_162525`
 
+## Cambios sesión 05/06/2026 — Auditoría SEO + Landing empresas (revertida)
+
+- **✅ Redirects 301:** `/bocadillos` → `/entre-panes` y `/reservation` → `/reservas` mediante `_redirects`
+- **✅ Cloudflare ajustado:** robots.txt OFF, Bot Fight Mode OFF, Block AI Bots = "Do not block"
+- **✅ Eventos.html mejorado:** sección "Así se viven los eventos" con galería + testimonios + info catering
+- **❌ Landing empresas:** creada, añadida a nav/schema/sitemap, pero el usuario la rechazó — revertido todo
+- **Commits:** `6a5e838` (landing + cambios), `4a3fef4` (reversión empresas)
+- **Backup:** `smithers-web-BACKUP_20260605_152838`
+
 ## BACKUPS DISPONIBLES (orden cronológico inverso)
 
 ### NUEVO — 20260604_235148
