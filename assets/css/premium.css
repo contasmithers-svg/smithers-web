@@ -38,3 +38,56 @@
 
 /* FAQ section */
 .faq-list{max-width:800px;margin:auto}.faq-list details{border-bottom:1px dashed rgba(26,19,14,.18);padding:4px 0}.faq-list details summary{cursor:pointer;font-weight:800;font-size:1.08rem;padding:16px 0;list-style:none;display:flex;justify-content:space-between;align-items:center;user-select:none;transition:.2s}.faq-list details summary:hover{color:var(--red)}.faq-list details summary::-webkit-details-marker{display:none}.faq-list details summary:after{content:"+";font-size:1.3rem;font-weight:400;color:var(--muted);transition:.3s}.faq-list details[open] summary:after{content:"–";color:var(--red)}.faq-list details p{margin:0 0 16px;color:var(--muted);max-width:90%}
+
+/* --- FOCUS VISIBLE --- */
+a:focus-visible,
+button:focus-visible,
+summary:focus-visible,
+.btn:focus-visible,
+.mobile-hero-nav a:focus-visible,
+.mobile-actions a:focus-visible,
+.whatsapp-float:focus-visible {
+  outline: 2px solid #c8a45c;
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+
+/* --- SKIP TO CONTENT --- */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  z-index: 9999;
+  background: #c8a45c;
+  color: #130d08;
+  padding: 10px 20px;
+  font-weight: 900;
+  font-size: 1rem;
+  border-radius: 0 0 8px 0;
+  transition: top 0.2s;
+}
+.skip-link:focus-visible {
+  top: 0;
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+/* --- BETTER FOOTER CONTRAST --- */
+.footer p,
+.footer a:not(:hover) {
+  color: rgba(255,255,255,.86);
+}
+
+/* --- BETTER TOUCH TARGETS --- */
+@media(max-width:930px){
+  .mobile-actions a {
+    padding: 12px 6px;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .mobile-hero-nav a {
+    min-height: 44px;
+  }
+}
