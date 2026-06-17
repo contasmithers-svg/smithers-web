@@ -21,3 +21,14 @@
 # Contacto (no existe página propia)
 /contacto / 301
 /contacto.html / 301
+# URLs comunes que Google puede encontrar (evitar 404s en Search Console)
+/contact / 301
+/about / 301
+/menu /carta 301
+/menus /carta 301
+/blog /eventos 301
+/galeria /eventos 301
+/nosotros / 301
+/bocadillos.html /entre-panes 301
+/reservation.html /reservas 301
+/index / 301
