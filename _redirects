@@ -1,2 +1,19 @@
+# Redirects 301 — Smithers Restaurant
 /bocadillos /entre-panes 301
 /reservation /reservas 301
+# Versiones .html → URLs limpias (para Google Search Console)
+/carta.html /carta 301
+/menu-del-dia.html /menu-del-dia 301
+/menu-shelby.html /menu-shelby 301
+/desayunos.html /desayunos 301
+/entre-panes.html /entre-panes 301
+/delivery.html /delivery 301
+/take-away.html /take-away 301
+/reservas.html /reservas 301
+/eventos.html /eventos 301
+/aviso-legal.html /aviso-legal 301
+/privacidad.html /privacidad 301
+/legal.html /legal 301
+# Contacto (no existe página propia)
+/contacto / 301
+/contacto.html / 301
