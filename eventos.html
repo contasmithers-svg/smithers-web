@@ -13,10 +13,12 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Event",
-  "name": "Eventos en Smithers Restaurant",
-  "location": {
-    "@type": "Place",
+  "@type": "Service",
+  "name": "Eventos y catering en Smithers Restaurant",
+  "serviceType": "Eventos y catering",
+  "provider": {
+    "@type": "Restaurant",
+    "@id": "https://www.smithersrestaurant.com",
     "name": "Smithers Restaurant",
     "address": {
       "@type": "PostalAddress",
@@ -24,7 +26,31 @@
       "addressLocality": "Madrid",
       "postalCode": "28037",
       "addressCountry": "ES"
-    }
+    },
+    "telephone": "+349****9622"
+  },
+  "areaServed": "Madrid",
+  "description": "Celebra tu evento en Smithers: comidas de grupo hasta 140 personas, cócteles corporativos hasta 180. Catering para empresas. Presupuesto sin compromiso.",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Servicios de eventos",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Comidas de grupo hasta 140 personas",
+        "description": "Menú personalizado para grupos grandes sin complicaciones"
+      },
+      {
+        "@type": "Offer",
+        "name": "Cócteles de empresa hasta 180 personas",
+        "description": "Evento corporativo con estilo, networking y catering de calidad"
+      },
+      {
+        "@type": "Offer",
+        "name": "Exclusiva del local entero",
+        "description": "Todo el espacio para ti: celebraciones privadas y eventos exclusivos"
+      }
+    ]
   }
 }
 </script>
