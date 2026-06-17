@@ -132,7 +132,7 @@
             font-size: 13px;
         }
         #smithers-cookie-modal .cookie-category .always-on {
-            color: #888;
+            color: #bbb;
             font-size: 12px;
             font-weight: normal;
         }
