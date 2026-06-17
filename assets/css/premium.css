@@ -53,21 +53,30 @@ summary:focus-visible,
 }
 
 /* --- SKIP TO CONTENT --- */
-.skip-link {
+.skip-link:not(:focus) {
   position: absolute;
-  top: -100%;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.skip-link:focus {
+  position: fixed;
+  top: 0;
   left: 0;
   z-index: 9999;
+  width: auto;
+  height: auto;
   background: #c8a45c;
   color: #130d08;
-  padding: 10px 20px;
+  padding: 12px 24px;
   font-weight: 900;
   font-size: 1rem;
   border-radius: 0 0 8px 0;
-  transition: top 0.2s;
-}
-.skip-link:focus-visible {
-  top: 0;
   outline: 2px solid #fff;
   outline-offset: 2px;
 }
