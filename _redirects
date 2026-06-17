@@ -13,7 +13,11 @@
 /eventos.html /eventos 301
 /aviso-legal.html /aviso-legal 301
 /privacidad.html /privacidad 301
-/legal.html /legal 301
+# Index
+/index.html / 301
+# Legal → redirige a aviso-legal (página duplicada sin contenido propio)
+/legal.html /aviso-legal 301
+/legal /aviso-legal 301
 # Contacto (no existe página propia)
 /contacto / 301
 /contacto.html / 301
