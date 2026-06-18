@@ -112,7 +112,7 @@ Todos los platos de la carta disponibles también para llevar. Precios en euros.
 | Albóndigas de merluza y calamar con alcachofas en salsa verde y arroz | 11,50€ |
 | Costillas asadas con salsa hoisin/miel y patatas fritas | 11,00€ |
 | Secreto de cerdo con puré de patatas, verduras y salsa chimichurri | 11,00€ |
-| Aguja de cerdo asada al vino tinto con patatas horneadas y brócoli | 12,00€ |
+| Carrilleras de cerdo guisadas al vino tinto con puré de patatas y brócoli | 12,00€ |
 | Merluza en salsa verde con menestra | 12,50€ |
 | Bacalao a la bilbaína con judías verdes | 13,00€ |
 | Hamburguesa brioche de pulled pork barbacoa con ensalada de col americana y patatas fritas | 13,00€ |
@@ -184,7 +184,7 @@ Disponible de lunes a viernes de 13:00 a 16:00.
 - Costillas asadas con salsa hoisin/miel y patatas fritas
 - Secreto de cerdo con puré de patatas, verduras y salsa chimichurri
 - Merluza en salsa verde con menestra
-- Aguja de cerdo asada al vino tinto con patatas horneadas y brócoli
+- Carrilleras de cerdo guisadas al vino tinto con puré de patatas y brócoli
 - Bacalao a la bilbaína con judías verdes
 
 ### Postres (opciones del menú)
@@ -212,7 +212,7 @@ Disponible de lunes a viernes de 13:00 a 16:00 (solo mediodía).
 ### Platos contundentes (8 opciones)
 
 1. **Pechuga de pollo empanada o a la plancha** — con patatas fritas y ensaladilla a nuestra manera con salsa de atún
-2. **Aguja de cerdo asada** — con puré de patatas y alcachofas con jamón
+2. **Carrilleras de cerdo guisadas al vino tinto con puré de patatas y brócoli** — con puré de patatas y alcachofas con jamón
 3. **Contramuslo de pollo marinado** — con arroz, gyozas de verduras y salsa teriyaki
 4. **Costillas de cerdo asadas** — con salsa hoisin/miel, patatas fritas y ensalada de col americana
 5. **Secreto de cerdo** — con puré de patatas, verduras, salsa chimichurri y ensalada con vinagreta César y croutons
