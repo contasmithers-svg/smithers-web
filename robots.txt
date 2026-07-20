@@ -1,36 +1,50 @@
 # robots.txt — Smithers Restaurant
 # www.smithersrestaurant.com
-# Actualizado: Junio 2026
+# Actualizado: Julio 2026
 
-# Permitir a todos los crawlers de búsqueda
-User-agent: *
-Allow: /
+# === Bots de IA generativa — PERMITIR (visibilidad en respuestas IA) ===
 
-# Google AI Overviews (CRÍTICO: permite aparecer en respuestas IA de Google)
-User-agent: Google-Extended
-Allow: /
-
-# ChatGPT y Bing AI (OpenAI)
+# OpenAI - ChatGPT (búsqueda web)
 User-agent: GPTBot
 Allow: /
 
-# Claude (Anthropic)
+# OpenAI - búsqueda en tiempo real (SearchGPT)
+User-agent: OAI-SearchBot
+Allow: /
+
+# OpenAI - ChatGPT-User (interacciones de usuario)
+User-agent: ChatGPT-User
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Anthropic Claude
 User-agent: ClaudeBot
 Allow: /
 
-# Meta AI (Instagram, Threads)
+# Anthropic Claude Search
+User-agent: Claude-SearchBot
+Allow: /
+
+# Google IA (AI Overviews, Gemini)
+User-agent: Google-Extended
+Allow: /
+
+# Meta AI
 User-agent: meta-externalagent
 Allow: /
 
-# Bloquear solo bots de scraping masivo sin valor SEO
+# Common Crawl (usado por varios LLMs)
 User-agent: CCBot
-Disallow: /
+Allow: /
 
-User-agent: Bytespider
-Disallow: /
+# === Crawlers generales ===
 
-User-agent: Amazonbot
-Disallow: /
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
 
 # Sitemap
 Sitemap: https://www.smithersrestaurant.com/sitemap.xml
