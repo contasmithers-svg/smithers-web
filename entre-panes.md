@@ -30,7 +30,7 @@ La sección «Entre Panes» de Smithers Restaurant reúne nuestra selección de 
 
 ## Horario
 - **Lunes a viernes:** 7:00 – 17:00
-- Servicio de bocadillos durante todo el horario, hamburguesas de 13:00 a 16:30
+- Servicio de bocadillos y hamburguesas hasta las 16:30
 
 ## Información del restaurante
 - **Dirección:** C/ Albasanz 16, 28037 Madrid
