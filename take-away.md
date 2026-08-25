@@ -5,14 +5,15 @@
 ## Descripción
 Recoge tu comida en Smithers Restaurant y llévatela a donde quieras. Nuestro servicio Take Away te permite disfrutar de los mismos platos de calidad en tu oficina, en casa o donde prefieras. Pide por teléfono o directamente en el restaurante y recoge en pocos minutos.
 
-## Precio
-**13,90 €** Menú Take Away completo
+## Precios
+- **15,90 €** Menú del día completo (primero, segundo y postre)
+- **14,90 €** Menú sin postre
+- **13,90 €** Menú Shelby take away (un plato con bebida)
 
-## ¿Qué incluye el Menú Take Away?
-- Primer plato o entrante
-- Segundo plato
-- Postre o café
-- Pan y bebida
+## ¿Qué incluye cada menú?
+- **Completo (15,90 €):** primer plato, segundo y postre
+- **Sin postre (14,90 €):** primer plato y segundo
+- **Shelby (13,90 €):** un plato contundente con bebida incluida
 
 ## Cómo funciona
 1. **Pedido:** Llama al 911 699 622 o pasa por el restaurante
