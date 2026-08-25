@@ -144,14 +144,25 @@
         #smithers-cookie-modal .modal-buttons .cookie-btn {
             flex: 1;
         }
-        #cookie-manage-link {
+        #cookie-manage-link, .cookie-manage-link {
             color: #c8a45c;
             cursor: pointer;
             text-decoration: underline;
             font-size: 13px;
+            /* el enlace pasó de <span onclick> a <button>: se quitan los
+               estilos propios del boton para que siga leyendose como enlace */
+            background: none;
+            border: 0;
+            padding: 0;
+            font-family: inherit;
         }
-        #cookie-manage-link:hover {
+        #cookie-manage-link:hover, .cookie-manage-link:hover {
             opacity: 0.8;
+        }
+        .cookie-manage-link:focus-visible {
+            outline: 2px solid #c8a45c;
+            outline-offset: 3px;
+            border-radius: 2px;
         }
     `;
     document.head.appendChild(styles);
@@ -329,6 +340,16 @@
         if (action === 'accept-all') acceptAll();
         else if (action === 'reject-all') rejectAll();
         else if (action === 'save-modal') saveModalPreferences();
+    });
+
+    // ====== ENLACE "GESTIONAR COOKIES" ======
+    // Antes cada pagina llevaba un onclick inline. Se engancha por delegacion
+    // para que la Content-Security-Policy pueda prohibir los scripts inline.
+    document.addEventListener('click', function (e) {
+        const enlace = e.target.closest('.cookie-manage-link, #cookie-manage-link');
+        if (!enlace) return;
+        e.preventDefault();
+        window.SmithersCookies.openPreferences();
     });
 
     // ====== INIT ======
