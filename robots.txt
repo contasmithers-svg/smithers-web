@@ -1,50 +1,120 @@
 # robots.txt — Smithers Restaurant
 # www.smithersrestaurant.com
-# Actualizado: Julio 2026
+# Actualizado: agosto 2026
+#
+# Politica: el sitio es publico y queremos aparecer tanto en buscadores
+# clasicos como en respuestas de asistentes de IA.
 
-# === Bots de IA generativa — PERMITIR (visibilidad en respuestas IA) ===
-
-# OpenAI - ChatGPT (búsqueda web)
+# === OpenAI (ChatGPT) ===
 User-agent: GPTBot
 Allow: /
 
-# OpenAI - búsqueda en tiempo real (SearchGPT)
 User-agent: OAI-SearchBot
 Allow: /
 
-# OpenAI - ChatGPT-User (interacciones de usuario)
 User-agent: ChatGPT-User
 Allow: /
 
-# Perplexity AI
-User-agent: PerplexityBot
-Allow: /
-
-# Anthropic Claude
+# === Anthropic (Claude) ===
 User-agent: ClaudeBot
 Allow: /
 
-# Anthropic Claude Search
 User-agent: Claude-SearchBot
 Allow: /
 
-# Google IA (AI Overviews, Gemini)
+User-agent: Claude-User
+Allow: /
+
+# === Google (AI Overviews, Gemini) ===
 User-agent: Google-Extended
 Allow: /
 
-# Meta AI
+# === Microsoft Bing (indice que alimenta Copilot) ===
+User-agent: bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+# === Perplexity ===
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# === Apple (Siri, Spotlight, Apple Intelligence) ===
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# === Meta AI ===
 User-agent: meta-externalagent
 Allow: /
 
-# Common Crawl (usado por varios LLMs)
+User-agent: FacebookBot
+Allow: /
+
+# === Amazon (Alexa) ===
+User-agent: Amazonbot
+Allow: /
+
+# === DuckDuckGo AI ===
+User-agent: DuckAssistBot
+Allow: /
+
+# === Otros asistentes y datasets de IA ===
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: cohere-training-data-crawler
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
+User-agent: Omgilibot
+Allow: /
+
+User-agent: Webzio-Extended
+Allow: /
+
 User-agent: CCBot
 Allow: /
 
 # === Crawlers generales ===
-
 User-agent: *
 Allow: /
 Disallow: /cdn-cgi/
+# Documentacion interna y utilidades: no son contenido del restaurante
+Disallow: /AUDITORIA_COMPLETA.md
+Disallow: /AUDITORIA_HTML.md
+Disallow: /BRIEF_FINAL.md
+Disallow: /README_SUBIDA.md
+Disallow: /REGISTRO_VERSIONES.md
+Disallow: /Resenas_Smithers_GBP.docx
+Disallow: /Resenas_Smithers_GBP_con_respuestas.docx
+Disallow: /audit_links.py
+Disallow: /audit_refined.py
+Disallow: /gen_carta.py
+Disallow: /indexnow.py
 
-# Sitemap
+# === Recursos para agentes de IA ===
+# Resumen del negocio:    https://www.smithersrestaurant.com/llms.txt
+# Documentacion completa: https://www.smithersrestaurant.com/llms-full.txt
+
 Sitemap: https://www.smithersrestaurant.com/sitemap.xml

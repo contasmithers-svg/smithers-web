@@ -23,3 +23,11 @@ jobs:
             --project-name smithers-restaurant \
             --branch main
         shell: bash
+
+      # Avisa a Bing de que el contenido ha cambiado. El indice de Bing es el
+      # que alimenta ChatGPT Search y Copilot, asi que sin esto esos
+      # asistentes pueden tardar semanas en ver los cambios.
+      - name: Avisar a Bing via IndexNow
+        run: python3 indexnow.py
+        shell: bash
+        continue-on-error: true
