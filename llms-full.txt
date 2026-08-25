@@ -438,7 +438,7 @@ Los precios van desde 1,80€ (café solo) hasta 8,50€ (plato fit con panceta,
 Cocina casera española e internacional. Platos de cuchara, arroces, carnes, pescados, ensaladas, hamburquesas y postres caseros. Todo fresco y cocinado en el momento.
 
 ### 11. ¿Aceptan pagos con tarjeta?
-Sí, se aceptan todo tipo de tarjetas y también efectivo.
+Sí, se aceptan todo tipo de tarjetas de crédito y débito y también efectivo. Además se admiten las tarjetas de restauración de Pluxee, Edenred y Déjeuner. No se admiten cheques ni vales de papel.
 
 ### 12. ¿Tienen opciones para personas con alergias o intolerancias?
 Sí, disponemos de pan sin gluten (suplemento +0,50€ en el menú). Consulta con el personal del restaurante para otras necesidades dietéticas y adaptaremos tu pedido.
@@ -455,7 +455,8 @@ Sí, disponemos de pan sin gluten (suplemento +0,50€ en el menú). Consulta co
 - **Eventos** — Grupos hasta 140, cócteles hasta 180, catering
 - **Desayunos** — Desde las 7:00 con opciones para todos los gustos
 - **Parking** — Zona con fácil aparcamiento en el polígono de Julián Camarillo
+- **Formas de pago** — Efectivo, tarjetas de crédito y débito y tarjetas de restauración Pluxee, Edenred y Déjeuner (no se admiten cheques ni vales de papel)
 
 ---
 
-*Documento auto-contenido para AI crawlers. Toda la información corresponde al sitio web https://www.smithersrestaurant.com. Última actualización: junio 2026.*
+*Documento auto-contenido para AI crawlers. Toda la información corresponde al sitio web https://www.smithersrestaurant.com. Última actualización: agosto 2026.*
