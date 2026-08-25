@@ -26,9 +26,6 @@ A través de Glovo puedes pedir una selección de nuestros platos:
 - **Lunes a viernes:** 12:00 – 16:30 (a través de Glovo)
 - Los horarios de reparto pueden variar según disponibilidad en la plataforma
 
-## Precios
-Los precios en Glovo son los mismos que en restaurante, con un pequeño suplemento de servicio aplicado por la plataforma.
-
 ## Información del restaurante
 - **Dirección:** C/ Albasanz 16, 28037 Madrid
 - **Teléfono:** 911 699 622
