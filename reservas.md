@@ -21,7 +21,7 @@ Reserva tu mesa directamente desde Google Maps:
 - Reserva tu mesa para el mismo día o con antelación
 
 ### Por email
-**Email:** smithersrestaurant@gmail.com
+**Email:** info@smithersrestaurant.com
 Indícanos:
 - Fecha y hora deseada
 - Número de comensales
@@ -45,5 +45,5 @@ Pásate por el restaurante y reserva directamente con nuestro equipo.
 ## Información del restaurante
 - **Dirección:** C/ Albasanz 16, 28037 Madrid
 - **Teléfono:** 911 699 622
-- **Email:** smithersrestaurant@gmail.com
+- **Email:** info@smithersrestaurant.com
 - **Web:** https://www.smithersrestaurant.com

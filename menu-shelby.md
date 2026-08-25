@@ -32,5 +32,5 @@ El Menú Shelby es una opción más ligera en variedad y número de platos, pens
 ## Información del restaurante
 - **Dirección:** C/ Albasanz 16, 28037 Madrid
 - **Teléfono:** 911 699 622
-- **Email:** smithersrestaurant@gmail.com
+- **Email:** info@smithersrestaurant.com
 - **Web:** https://www.smithersrestaurant.com

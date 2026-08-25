@@ -33,5 +33,5 @@ Recoge tu comida en Smithers Restaurant y llévatela a donde quieras. Nuestro se
 ## Información del restaurante
 - **Dirección:** C/ Albasanz 16, 28037 Madrid
 - **Teléfono:** 911 699 622
-- **Email:** smithersrestaurant@gmail.com
+- **Email:** info@smithersrestaurant.com
 - **Web:** https://www.smithersrestaurant.com

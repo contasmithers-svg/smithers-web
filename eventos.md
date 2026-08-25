@@ -38,7 +38,7 @@ Nuestros clientes destacan:
 ## Contacto para eventos
 Para reservar tu evento o solicitar un presupuesto personalizado:
 - **Teléfono:** 911 699 622
-- **Email:** smithersrestaurant@gmail.com
+- **Email:** info@smithersrestaurant.com
 - **Presencial:** C/ Albasanz 16, 28037 Madrid
 
 ## Horario para eventos
@@ -48,5 +48,5 @@ Para reservar tu evento o solicitar un presupuesto personalizado:
 ## Información del restaurante
 - **Dirección:** C/ Albasanz 16, 28037 Madrid
 - **Teléfono:** 911 699 622
-- **Email:** smithersrestaurant@gmail.com
+- **Email:** info@smithersrestaurant.com
 - **Web:** https://www.smithersrestaurant.com

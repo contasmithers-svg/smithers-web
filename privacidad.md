@@ -6,7 +6,7 @@
 - **Titular:** Smithers Restaurant
 - **Dirección:** C/ Albasanz 16, 28037 Madrid, España
 - **Teléfono:** 911 699 622
-- **Email:** smithersrestaurant@gmail.com
+- **Email:** info@smithersrestaurant.com
 
 ## Datos recogidos
 En Smithers Restaurant recogemos y tratamos los siguientes datos personales cuando los usuarios interactúan con nuestro sitio web o servicios:
@@ -37,7 +37,7 @@ No se cederán datos personales a terceros salvo obligación legal o para la cor
 
 ## Derechos del usuario
 El usuario puede ejercer sus derechos de acceso, rectificación, supresión, limitación, portabilidad y oposición dirigiéndose a:
-- **Email:** smithersrestaurant@gmail.com
+- **Email:** info@smithersrestaurant.com
 - **Dirección:** C/ Albasanz 16, 28037 Madrid
 
 ## Cookies
@@ -48,5 +48,5 @@ Esta política de privacidad se rige por el Reglamento General de Protección de
 
 ## Contacto
 Para cualquier consulta sobre privacidad y protección de datos:
-- **Email:** smithersrestaurant@gmail.com
+- **Email:** info@smithersrestaurant.com
 - **Teléfono:** 911 699 622

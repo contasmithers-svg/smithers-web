@@ -6,7 +6,7 @@
 - **Nombre comercial:** Smithers Restaurant
 - **Dirección:** C/ Albasanz 16, 28037 Madrid, España
 - **Teléfono:** 911 699 622
-- **Email:** smithersrestaurant@gmail.com
+- **Email:** info@smithersrestaurant.com
 - **Sitio web:** https://www.smithersrestaurant.com
 
 ## Propiedad intelectual
@@ -19,4 +19,4 @@ Smithers Restaurant no se responsabiliza de los daños o perjuicios derivados de
 Las presentes condiciones se rigen por la legislación española. Para cualquier controversia que pudiera derivarse del acceso o uso del sitio web, las partes se someten a los juzgados y tribunales de Madrid.
 
 ## Contacto
-Para cualquier consulta sobre este aviso legal, puede contactarnos a través del email smithersrestaurant@gmail.com o llamando al 911 699 622.
+Para cualquier consulta sobre este aviso legal, puede contactarnos a través del email info@smithersrestaurant.com o llamando al 911 699 622.

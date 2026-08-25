@@ -35,5 +35,5 @@ La sección «Entre Panes» de Smithers Restaurant reúne nuestra selección de 
 ## Información del restaurante
 - **Dirección:** C/ Albasanz 16, 28037 Madrid
 - **Teléfono:** 911 699 622
-- **Email:** smithersrestaurant@gmail.com
+- **Email:** info@smithersrestaurant.com
 - **Web:** https://www.smithersrestaurant.com
