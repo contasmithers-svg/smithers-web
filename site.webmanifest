@@ -1,0 +1,25 @@
+{
+  "name": "Smithers Restaurant — Albasanz, Madrid",
+  "short_name": "Smithers",
+  "description": "Bar y restaurante en C/ Albasanz 16, zona Julián Camarillo (Madrid). Desayunos desde las 7:00, menú del día, carta, take away, delivery y eventos.",
+  "lang": "es-ES",
+  "dir": "ltr",
+  "start_url": "/?utm_source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf7f2",
+  "theme_color": "#090604",
+  "categories": ["food", "business", "lifestyle"],
+  "icons": [
+    { "src": "/favicon-96x96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Menú del día", "url": "/menu-del-dia" },
+    { "name": "Carta", "url": "/carta" },
+    { "name": "Reservar mesa", "url": "/reservas" },
+    { "name": "Pedir delivery", "url": "/delivery" }
+  ]
+}

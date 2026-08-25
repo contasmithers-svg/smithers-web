@@ -1,75 +1,241 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.smithersrestaurant.com</loc>
-    <lastmod>2026-07-20T16:00:00+02:00</lastmod>
+    <loc>https://www.smithersrestaurant.com/</loc>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/"/>
+    <lastmod>2026-08-25T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.smithersrestaurant.com/carta</loc>
-    <lastmod>2026-07-20T16:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/shelby/SHELBY_COSTILLAS.jpg</image:loc>
+      <image:title>Shelby Costillas</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/CALABACINES_REBOZADOS.jpg</image:loc>
+      <image:title>Calabacines rebozados con salsa de curry Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/ARROZ_NEGRO.jpg</image:loc>
+      <image:title>Arroz negro Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/ALBONDIGAS.jpg</image:loc>
+      <image:title>Albóndigas Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/COSTILLAS.jpg</image:loc>
+      <image:title>Costillas Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/BACALAO.jpg</image:loc>
+      <image:title>Bacalao Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/desayunos/TOSTA_PAVO_HUEVO.jpg</image:loc>
+      <image:title>Tosta de pavo y huevo Smithers Restaurant</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/shelby/SHELBY_SECRETO.jpg</image:loc>
+      <image:title>Shelby secreto</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/postres/TARTA_QUESO.jpg</image:loc>
+      <image:title>Tarta de queso Smithers Restaurant</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.smithersrestaurant.com/menu-del-dia</loc>
-    <lastmod>2026-07-20T16:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/menu-del-dia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/menu-del-dia"/>
+    <lastmod>2026-08-25T12:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/menu-del-dia-mesa.jpg</image:loc>
+      <image:title>Menú del día Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/RISOTO_DE_SETAS.jpg</image:loc>
+      <image:title>Risoto de setas mixtas Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/ALCACHOFAS.jpg</image:loc>
+      <image:title>Alcachofas Smithers Restaurant Madrid</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/ALBONDIGAS.jpg</image:loc>
+      <image:title>Albóndigas Smithers Restaurant Madrid</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/CHIPIRONES.jpg</image:loc>
+      <image:title>Chipirones rebozados con alioli Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/BACALAO.jpg</image:loc>
+      <image:title>Bacalao Smithers Restaurant Madrid</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/postres/TARTA_QUESO.jpg</image:loc>
+      <image:title>Tarta de queso Smithers Restaurant Madrid</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.smithersrestaurant.com/carta</loc>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/carta"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/carta"/>
+    <lastmod>2026-08-25T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/ATUN.jpg</image:loc>
+      <image:title>Atún rojo Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/carta/BACALAO.jpg</image:loc>
+      <image:title>Bacalao Smithers</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.smithersrestaurant.com/menu-shelby</loc>
-    <lastmod>2026-07-20T16:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/menu-shelby"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/menu-shelby"/>
+    <lastmod>2026-08-25T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/shelby/SHELBY_COSTILLAS.jpg</image:loc>
+      <image:title>Menú Shelby Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/shelby/SHELBY_PIZZA.jpg</image:loc>
+      <image:title>Shelby Pizza 4 quesos</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/shelby/SHELBY_POLLO.jpg</image:loc>
+      <image:title>Shelby Pollo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/shelby/SHELBY_SECRETO.jpg</image:loc>
+      <image:title>Shelby Secreto</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/shelby/SHELBY_WOK.jpg</image:loc>
+      <image:title>Shelby Wok</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/shelby/SHELBY_TERIYAKI.jpg</image:loc>
+      <image:title>Shelby Teriyaki</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.smithersrestaurant.com/desayunos</loc>
-    <lastmod>2026-07-20T16:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/desayunos"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/desayunos"/>
+    <lastmod>2026-08-25T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/desayunos/AGUACATE_TOMATE_HUEVO.jpg</image:loc>
+      <image:title>Tosta de aguacate, tomate y huevo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/desayunos/PLATO_PAVO_HUEVOS_TOMATE.jpg</image:loc>
+      <image:title>Plato de pavo, huevos y tomate</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/desayunos/PLATO_AGUCATE_HUEVOS_TOMATE.jpg</image:loc>
+      <image:title>Aguacate, huevos y tomate Smithers</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/desayunos/TOSTA_PAVO_HUEVO.jpg</image:loc>
+      <image:title>Tosta de pavo y huevo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/desayunos/PLATO_HUEVOS_FRITAS_PANCETA_BAJA.jpg</image:loc>
+      <image:title>Panceta baja temperatura Smithers Restaurant Madrid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.smithersrestaurant.com/entre-panes</loc>
-    <lastmod>2026-07-20T16:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/entre-panes"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/entre-panes"/>
+    <lastmod>2026-08-25T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.smithersrestaurant.com/delivery</loc>
-    <lastmod>2026-07-20T16:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/entre-panes/langostino-panko.jpg</image:loc>
+      <image:title>Langostinos panko con mayonesa de chilli dulce</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/entre-panes/chorizo-criollo.jpg</image:loc>
+      <image:title>Chorizo criollo con salsa chimichurri</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/entre-panes/calamares.jpg</image:loc>
+      <image:title>Calamares a la andaluza con alioli</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.smithersrestaurant.com/take-away</loc>
-    <lastmod>2026-07-20T16:00:00+02:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/take-away"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/take-away"/>
+    <lastmod>2026-08-25T12:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/shelby/SHELBY_SECRETO.jpg</image:loc>
+      <image:title>Take away Smithers</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.smithersrestaurant.com/delivery</loc>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/delivery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/delivery"/>
+    <lastmod>2026-08-25T12:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/cocina-delivery.jpg</image:loc>
+      <image:title>Cocina de Smithers Restaurant Madrid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.smithersrestaurant.com/reservas</loc>
-    <lastmod>2026-07-20T16:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/reservas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/reservas"/>
+    <lastmod>2026-08-25T12:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.smithersrestaurant.com/eventos</loc>
-    <lastmod>2026-07-20T16:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/eventos"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/eventos"/>
+    <lastmod>2026-08-25T12:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.smithersrestaurant.com/assets/img/eventos-networking.jpg</image:loc>
+      <image:title>Evento de networking en Smithers Restaurant Madrid</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.smithersrestaurant.com/aviso-legal</loc>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/aviso-legal"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/aviso-legal"/>
     <lastmod>2026-07-20T16:00:00+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
   </url>
   <url>
     <loc>https://www.smithersrestaurant.com/privacidad</loc>
+    <xhtml:link rel="alternate" hreflang="es-ES" href="https://www.smithersrestaurant.com/privacidad"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.smithersrestaurant.com/privacidad"/>
     <lastmod>2026-07-20T16:00:00+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
   </url>
 </urlset>
