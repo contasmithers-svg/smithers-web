@@ -228,6 +228,23 @@ Llámanos al 911 699 622 o escríbenos y te preparamos un presupuesto sin compro
 - Instagram: https://www.instagram.com/smithers_restaurant/
 - Facebook: https://www.facebook.com/people/Smithers-Restaurant/61588168375109/
 
+## Versiones en Markdown
+
+Cada página tiene una versión en texto plano, pensada para agentes de IA:
+
+- Carta: https://www.smithersrestaurant.com/carta.md
+- Menú del día: https://www.smithersrestaurant.com/menu-del-dia.md
+- Menú Shelby: https://www.smithersrestaurant.com/menu-shelby.md
+- Desayunos: https://www.smithersrestaurant.com/desayunos.md
+- Entre panes: https://www.smithersrestaurant.com/entre-panes.md
+- Take away: https://www.smithersrestaurant.com/take-away.md
+- Delivery: https://www.smithersrestaurant.com/delivery.md
+- Reservas: https://www.smithersrestaurant.com/reservas.md
+- Eventos: https://www.smithersrestaurant.com/eventos.md
+- Aviso legal: https://www.smithersrestaurant.com/aviso-legal.md
+- Privacidad: https://www.smithersrestaurant.com/privacidad.md
+- Contenido completo del sitio: https://www.smithersrestaurant.com/llms-full.txt
+
 ## Cómo llegar
 
 - Metro: Suanzes (L5) y Ciudad Lineal (L5), a 10-15 min andando

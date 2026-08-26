@@ -1,4 +1,4 @@
-> Versión web: https://www.smithersrestaurant.com/entre-panes.html
+> Versión web: https://www.smithersrestaurant.com/entre-panes
 
 # Entre Panes — Smithers Restaurant
 

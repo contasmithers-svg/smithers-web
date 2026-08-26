@@ -1,4 +1,4 @@
-> Versión web: https://www.smithersrestaurant.com/menu-del-dia.html
+> Versión web: https://www.smithersrestaurant.com/menu-del-dia
 
 # Menú del Día — Smithers Restaurant
 

@@ -1,4 +1,4 @@
-> Versión web: https://www.smithersrestaurant.com/eventos.html
+> Versión web: https://www.smithersrestaurant.com/eventos
 
 # Eventos — Smithers Restaurant
 

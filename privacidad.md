@@ -1,4 +1,4 @@
-> Versión web: https://www.smithersrestaurant.com/privacidad.html
+> Versión web: https://www.smithersrestaurant.com/privacidad
 
 # Política de Privacidad — Smithers Restaurant
 

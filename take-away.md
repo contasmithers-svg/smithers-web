@@ -1,4 +1,4 @@
-> Versión web: https://www.smithersrestaurant.com/take-away.html
+> Versión web: https://www.smithersrestaurant.com/take-away
 
 # Take Away — Smithers Restaurant
 

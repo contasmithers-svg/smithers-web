@@ -1,4 +1,4 @@
-> Versión web: https://www.smithersrestaurant.com/delivery.html
+> Versión web: https://www.smithersrestaurant.com/delivery
 
 # Delivery — Smithers Restaurant
 

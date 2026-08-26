@@ -1,4 +1,4 @@
-> Versión web: https://www.smithersrestaurant.com/aviso-legal.html
+> Versión web: https://www.smithersrestaurant.com/aviso-legal
 
 # Aviso Legal — Smithers Restaurant
 

@@ -1,4 +1,4 @@
-> Versión web: https://www.smithersrestaurant.com/menu-shelby.html
+> Versión web: https://www.smithersrestaurant.com/menu-shelby
 
 # Menú Shelby — Smithers Restaurant
 

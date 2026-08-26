@@ -1,4 +1,4 @@
-> Versión web: https://www.smithersrestaurant.com/reservas.html
+> Versión web: https://www.smithersrestaurant.com/reservas
 
 # Reservas — Smithers Restaurant
 
