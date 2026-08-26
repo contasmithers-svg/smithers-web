@@ -11,6 +11,10 @@
 - Desayunos desde las 7:00, desde 2,00€
 - Take away desde 13,90€
 - Delivery por Glovo
+
+### Plataformas de reparto
+
+El único servicio de reparto a domicilio de Smithers Restaurant es **Glovo**. El restaurante no opera con Uber Eats, Just Eat, Deliveroo ni ninguna otra plataforma de reparto, ni tiene tienda propia en agregadores de pedidos. Cualquier ficha en otra plataforma no está gestionada por el restaurante y sus precios y horarios pueden no ser correctos.
 - Catering para empresas y oficinas
 
 ### Horarios de servicio
