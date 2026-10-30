@@ -524,9 +524,56 @@
  <div class="card"><h2>Cócteles de empresa</h2><p class="muted">Un evento corporativo con estilo: cóctel, networking y buen ambiente en un espacio diseñado para impresionar. Capacidad para hasta 180 personas.</p></div>
  <div class="card"><h2>Exclusiva del local entero</h2><p class="muted">El local solo para vosotros. Celebraciones privadas, eventos de empresa o lo que se te ocurra — todo el espacio, todo el control.</p></div>
 </div></section>
-<section class="section paper"><div class="wrap band"><div><h2>Cuéntanos lo que tienes en mente.</h2><p>Dinos cuántos sois, qué día y qué tipo de plan te apetece. Te preparamos una propuesta a medida, sin compromiso.</p></div><a class="btn gold" href="mailto:info@smithersrestaurant.com?subject=Presupuesto%20evento%20Smithers&body=Hola,%20me%20gustar%C3%ADa%20pedir%20presupuesto%20para%20un%20evento.">Pedir presupuesto</a></div></section>
+<section class="section paper"><div class="wrap band"><div><h2>Cuéntanos lo que tienes en mente.</h2><p>Dinos cuántos sois, qué día y qué tipo de plan te apetece. Te preparamos una propuesta a medida, sin compromiso.</p></div><a class="btn gold" href="#solicitar-evento">Pedir presupuesto</a></div></section>
 
 
+<style>
+  .ev-head{max-width:720px;margin:0 auto 22px;text-align:center}
+  .ev-form{max-width:820px;margin:0 auto;background:#fff;border:1px solid rgba(0,0,0,.08);border-radius:var(--radius);box-shadow:var(--shadow);padding:26px}
+  .ev-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .ev-form label{display:flex;flex-direction:column;font-weight:700;font-size:.95rem;gap:6px;color:#1a130e}
+  .ev-form input,.ev-form select,.ev-form textarea{font:inherit;font-weight:400;padding:11px 13px;border:1px solid rgba(0,0,0,.18);border-radius:12px;background:#fff;color:#1a130e;width:100%}
+  .ev-form input:focus,.ev-form select:focus,.ev-form textarea:focus{outline:2px solid var(--gold2,#c8a24a);border-color:transparent}
+  .ev-full{margin-top:16px;display:flex;flex-direction:column;gap:6px;font-weight:700;color:#1a130e}
+  .ev-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:20px}
+  .ev-actions .btn{flex:1;min-width:200px;text-align:center;cursor:pointer;border:0}
+  .ev-note{margin-top:14px;font-size:.82rem;color:#6b625a}
+  @media(max-width:620px){.ev-grid{grid-template-columns:1fr}.ev-form{padding:20px}}
+</style>
+<!-- Formulario de solicitud de eventos -->
+<section class="section" id="solicitar-evento"><div class="wrap">
+  <div class="ev-head">
+    <h2>Pide presupuesto para tu evento</h2>
+    <p class="muted">Rellena y envíanoslo por WhatsApp o por email. Te respondemos con una propuesta a medida, sin compromiso.</p>
+  </div>
+  <form id="ev-form" class="ev-form">
+    <div class="ev-grid">
+      <label>Nombre y apellidos *<input id="ev_nombre" type="text" required autocomplete="name"></label>
+      <label>Teléfono *<input id="ev_tel" type="tel" required autocomplete="tel" inputmode="tel"></label>
+      <label>Email<input id="ev_email" type="email" autocomplete="email"></label>
+      <label>Fecha del evento<input id="ev_fecha" type="date"></label>
+      <label>Nº de personas<input id="ev_personas" type="number" min="1" inputmode="numeric"></label>
+      <label>Tipo de evento
+        <select id="ev_tipo">
+          <option value="">Elige una opción</option>
+          <option>Comida de empresa</option>
+          <option>Cena de empresa</option>
+          <option>Cóctel de empresa</option>
+          <option>Celebración privada</option>
+          <option>Local completo (exclusiva)</option>
+          <option>Otro</option>
+        </select>
+      </label>
+    </div>
+    <label class="ev-full">Cuéntanos tu idea<textarea id="ev_detalles" rows="4" placeholder="Día aproximado, nº de personas, tipo de menú, presupuesto orientativo…"></textarea></label>
+    <div class="ev-actions">
+      <button type="button" id="ev_wa" class="btn green">Enviar por WhatsApp</button>
+      <button type="button" id="ev_mail" class="btn dark">Enviar por email</button>
+    </div>
+    <p class="ev-note">* Nombre y teléfono obligatorios. Al enviar se abrirá WhatsApp o tu correo con los datos ya escritos; solo tienes que darle a enviar.</p>
+  </form>
+</div></section>
+<script src="/assets/js/eventos-form.js?v=1" defer></script>
 </main>
 <footer class="footer"><div class="wrap foot">
   <div><a class="brand" href="/"><picture>
