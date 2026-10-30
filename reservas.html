@@ -275,7 +275,7 @@
         "bestRating": "5",
         "worstRating": "1"
       },
-      "acceptsReservations": "https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc",
+      "acceptsReservations": "https://reservation.dish.co/widget/hydra-dc9666be-57c5-400c-9de4-417b20578836",
       "keywords": "restaurante Julian Camarillo, menu del dia Albasanz, desayunos Madrid 28037, comida para llevar Albasanz, catering empresas Madrid",
       "sameAs": [
         "https://www.instagram.com/smithers_restaurant/",
@@ -288,7 +288,7 @@
           "@type": "ReserveAction",
           "target": {
             "@type": "EntryPoint",
-            "urlTemplate": "https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc",
+            "urlTemplate": "https://reservation.dish.co/widget/hydra-dc9666be-57c5-400c-9de4-417b20578836",
             "actionPlatform": [
               "http://schema.org/DesktopWebPlatform",
               "http://schema.org/MobileWebPlatform",
@@ -410,6 +410,11 @@
   .action-stack{display:flex;flex-wrap:wrap;gap:12px;margin-top:22px}
   @media(max-width:930px){.reserve-card{grid-template-columns:1fr;padding:24px;gap:20px}
     .maps-wrap iframe{height:320px}}
+  .dish-widget{border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);border:1px solid rgba(0,0,0,.08);background:#fff}
+  .dish-widget iframe{width:100%;min-height:720px;border:0;display:block}
+  .reserve-alt{text-align:center;margin-top:26px}
+  .reserve-alt>p{font-weight:800;margin-bottom:12px}
+  @media(max-width:600px){.dish-widget iframe{min-height:860px}}
 </style>
     <link rel="canonical" href="https://www.smithersrestaurant.com/reservas">
     <meta property="og:url" content="https://www.smithersrestaurant.com/reservas">
@@ -440,7 +445,7 @@
 </picture><div>Smithers<span>.</span></div></a>
   <div class="links">
     <div class="dropdown"><a class="dropbtn" href="/carta">Cartas<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6z"/></svg></a><div class="dropdown-content"><a href="/carta">Carta</a><a href="/menu-del-dia">Menú del día</a><a href="/menu-shelby">Menú Shelby</a><a href="/entre-panes">Entre panes</a><a href="/desayunos">Desayunos</a></div></div><a href="/take-away">Take away</a><a href="/delivery">Delivery</a><a href="/eventos">Eventos</a><a class="btn-social" href="https://www.instagram.com/smithers_restaurant/" target="_blank" rel="noopener" title="Instagram" aria-label="Instagram de Smithers Restaurant"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="white" aria-hidden="true"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z"/></svg></a><a class="btn-social" href="https://www.facebook.com/people/Smithers-Restaurant/61588168375109/" target="_blank" rel="noopener" title="Facebook" aria-label="Facebook de Smithers Restaurant"><svg aria-hidden="true" focusable="false" width="18" height="18" viewBox="0 0 24 24" fill="white" aria-hidden="true"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></a>
-    <a class="btn red" href="https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc" target="_blank" rel="noopener" data-track="nav_reserva">Reservar</a>
+    <a class="btn red" href="/reservas" data-track="nav_reserva">Reservar</a>
   </div>
 
 
@@ -474,7 +479,7 @@
 <a href="/take-away">Take away</a>
 <a href="/delivery">Delivery</a>
 <a href="/eventos">Eventos</a>
-<a href="https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc" class="mhn-cta" target="_blank" rel="noopener">Reservar</a>
+<a href="/reservas" class="mhn-cta">Reservar</a>
 </div>
 <main id="main-content">
 
@@ -490,31 +495,21 @@
   </div>
 </div></section>
 
-<!-- Reserve con Google -->
+<!-- Reserva online con DISH -->
 <section class="section paper"><div class="wrap">
-  <div class="reserve-card">
-    <div>
-      <h2>Reserva con Google</h2>
-      <p class="muted" style="color:rgba(255,255,255,.72)">Ábrelo, busca Smithers Restaurant y pulsa «Reservar mesa». En dos toques tienes mesa.</p>
-      <div class="action-stack">
-        <a class="reserve-google" href="https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc" target="_blank" rel="noopener" data-track="reserva_google_maps">
-          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-          Abrir en Google Maps
-        </a>
-      </div>
-      <div class="badges" style="margin-top:18px">
-        <span class="badge">C/ Albasanz 16, Madrid</span>
-        <span class="badge">L-V 7:00–17:00 · Cerrado finde</span>
-        <span class="badge">Grupos y eventos</span>
-      </div>
-    </div>
-    <div style="text-align:center">
-      <p style="font-size:1.2rem;font-weight:900;margin:0 0 8px">¿Prefieres directo?</p>
-      <div class="action-stack" style="justify-content:center">
-        <a class="btn red" href="tel:+34911699622" data-track="reserva_llamar">911 699 622</a>
-        <a class="btn green" href="https://wa.me/34624868537?text=Hola%2C+quiero+reservar+mesa+en+Smithers" data-track="reserva_whatsapp"><svg width="20" height="20" viewBox="0 0 24 24" fill="white" style="vertical-align:middle;margin-right:4px"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413z"/></svg> WhatsApp</a>
-      </div>
-      <p style="margin-top:16px;font-size:.92rem;color:rgba(255,255,255,.62)">O escríbenos: <a href="mailto:info@smithersrestaurant.com?subject=Reserva%20Smithers" style="color:var(--gold2);text-decoration:underline">info@smithersrestaurant.com</a></p>
+  <div style="text-align:center;max-width:720px;margin:0 auto 22px">
+    <h2>Reserva tu mesa online</h2>
+    <p class="muted">Elige número de personas, servicio, día y hora. Confirmación al momento, sin llamadas.</p>
+  </div>
+  <div class="dish-widget">
+    <iframe title="Reserva de mesa en Smithers Restaurant" src="https://reservation.dish.co/widget/hydra-dc9666be-57c5-400c-9de4-417b20578836" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <div class="reserve-alt">
+    <p>¿Prefieres reservar hablando con nosotros?</p>
+    <div class="action-stack" style="justify-content:center">
+      <a class="btn red" href="tel:+34911699622" data-track="reserva_llamar">911 699 622</a>
+      <a class="btn green" href="https://wa.me/34624868537?text=Hola%2C+quiero+reservar+mesa+en+Smithers" target="_blank" rel="noopener" data-track="reserva_whatsapp">WhatsApp</a>
+      <a class="btn dark" href="mailto:info@smithersrestaurant.com?subject=Reserva%20Smithers" data-track="reserva_email">Email</a>
     </div>
   </div>
 </div></section>
@@ -528,10 +523,10 @@
 </picture><div>Smithers<span>.</span></div></a><p>Desayunos, menú del día, comida casera, take away, delivery y eventos en la zona Albasanz / Julián Camarillo.</p></div>
   <div class="seo-foot-cartas"><h3>Cartas</h3><p><a href="/menu-del-dia">Menú del día</a><br><a href="/menu-shelby">Menú Shelby</a><br><a href="/carta">Carta</a><br><a href="/entre-panes">Entre panes</a><br><a href="/desayunos">Desayunos</a><br><a href="/take-away">Take away</a><br><a href="/delivery">Delivery</a><br><a href="/reservas">Reservar mesa</a></p></div><div><h3>Visítanos</h3><p>C/ Albasanz 16, 28037 Madrid<br><a href="https://www.google.com/maps/search/?api=1&query=Calle%20de%20Albasanz%2016%2028037%20Madrid">Abrir en Google Maps</a></p></div>
   <div><h3>Contacto</h3><p><a href="tel:+34911699622">911 699 622</a><br><a href="mailto:info@smithersrestaurant.com">info@smithersrestaurant.com</a></p></div>
-  <div><h3>Acción</h3><p><a href="https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc" target="_blank" rel="noopener">Reservar mesa</a><br><a href="https://glovoapp.com/es/es/madrid/stores/smithers-restaurant-madrid" target="_blank" rel="noopener">Pedir delivery</a><br><a href="/eventos">Eventos y grupos</a></p></div>
+  <div><h3>Acción</h3><p><a href="/reservas">Reservar mesa</a><br><a href="https://glovoapp.com/es/es/madrid/stores/smithers-restaurant-madrid" target="_blank" rel="noopener">Pedir delivery</a><br><a href="/eventos">Eventos y grupos</a></p></div>
 </div>        <p style="text-align:center;margin-top:10px;font-size:13px;"><button type="button" class="cookie-manage-link">Gestionar cookies</button> · <a href="/aviso-legal">Aviso Legal</a> · <a href="/privacidad">Política de Privacidad</a> · Con ❤️</p>
     </footer>
-<div class="mobile-actions"><a href="tel:+34911699622" data-track="mobile_llamar">Llamar</a><a href="https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc" target="_blank" rel="noopener" data-track="mobile_reserva">Reservar</a><a href="https://glovoapp.com/es/es/madrid/stores/smithers-restaurant-madrid" target="_blank" rel="noopener" data-track="mobile_delivery">Pedir</a><a href="https://www.google.com/maps/search/?api=1&query=Calle%20de%20Albasanz%2016%2028037%20Madrid" data-track="mobile_mapa">Mapa</a></div>
+<div class="mobile-actions"><a href="tel:+34911699622" data-track="mobile_llamar">Llamar</a><a href="/reservas" data-track="mobile_reserva">Reservar</a><a href="https://glovoapp.com/es/es/madrid/stores/smithers-restaurant-madrid" target="_blank" rel="noopener" data-track="mobile_delivery">Pedir</a><a href="https://www.google.com/maps/search/?api=1&query=Calle%20de%20Albasanz%2016%2028037%20Madrid" data-track="mobile_mapa">Mapa</a></div>
 <a href="https://wa.me/34624868537?text=Hola%2C+quiero+reservar+mesa+en+Smithers" target="_blank" rel="noopener" class="whatsapp-float" title="WhatsApp Smithers" data-track="float_whatsapp" aria-label="Escribir por WhatsApp a Smithers Restaurant"><svg width="30" height="30" viewBox="0 0 24 24" fill="white" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413z"/></svg></a>
 <script src="/cookies.js" defer></script>
 <script src="assets/js/premium.js" defer></script>

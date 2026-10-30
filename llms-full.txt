@@ -15,7 +15,7 @@ Smithers Restaurant es un bar-restaurante de cocina casera española e internaci
 - **Precio:** €€ (rango medio)
 - **Cocina:** Española, Internacional, Cocina casera
 - **Valoración media:** 4,7/5 sobre 102 reseñas en Google
-- **Acepta reservas:** Sí, vía Google Maps Reserve, teléfono, WhatsApp o email
+- **Acepta reservas:** Sí, online en la web (DISH), teléfono, WhatsApp o email
 
 ---
 
@@ -27,7 +27,7 @@ Smithers Restaurant es un bar-restaurante de cocina casera española e internaci
 | Email | info@smithersrestaurant.com |
 | WhatsApp | wa.me/34624868537 |
 | Google Maps | https://www.google.com/maps?cid=17847721193954781420 |
-| Google Maps Reserve | https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc |
+| Reservas online (DISH) | https://reservation.dish.co/widget/hydra-dc9666be-57c5-400c-9de4-417b20578836 |
 | Glovo | https://glovoapp.com/es/es/madrid/stores/smithers-restaurant-madrid |
 
 ---
@@ -383,12 +383,12 @@ Indica número de personas, fecha y tipo de evento para recibir una propuesta a 
 ## Reservas
 
 Se puede reservar mesa a través de:
-- **Google Maps Reserve:** https://www.google.com/maps/reserve/v/dine/c/pQjQPGMnnkc
+- **Reservas online (DISH):** https://reservation.dish.co/widget/hydra-dc9666be-57c5-400c-9de4-417b20578836
 - **Teléfono:** +34 911 699 622
 - **WhatsApp:** https://wa.me/34624868537?text=Hola%2C+quiero+reservar+mesa+en+Smithers
 - **Email:** info@smithersrestaurant.com
 
-La reserva con Google está disponible en todas las plataformas (web, móvil, iOS, Android).
+La reserva online está disponible en todas las plataformas (web, móvil, iOS, Android).
 
 ---
 
@@ -428,7 +428,7 @@ Sí, puedes pedir para llevar. El menú del día completo take away cuesta 15,90
 Sí, a través de Glovo. Puedes pedir desayunos, platos de la carta y platos Shelby desde la app de Glovo. Enlace directo: https://glovoapp.com/es/es/madrid/stores/smithers-restaurant-madrid
 
 ### 7. ¿Se puede reservar mesa?
-Sí, se puede reservar a través de Google Maps Reserve, por teléfono (911 699 622), WhatsApp o email.
+Sí, se puede reservar online en la web, por teléfono (911 699 622), WhatsApp o email.
 
 ### 8. ¿Hacen eventos para empresas?
 Sí, organizamos comidas de grupo (hasta 140 personas sentadas), cócteles de empresa (hasta 180 personas), exclusiva del local entero y catering para oficinas. Solicita presupuesto sin compromiso.

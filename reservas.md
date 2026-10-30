@@ -3,16 +3,16 @@
 # Reservas — Smithers Restaurant
 
 ## Descripción
-Reserva tu mesa en Smithers Restaurant de forma rápida y sencilla. Puedes hacerlo a través de **Google Maps Reserve**, por teléfono, por email o directamente en el restaurante. Te esperamos en C/ Albasanz 16, 28037 Madrid.
+Reserva tu mesa en Smithers Restaurant de forma rápida y sencilla. Puedes hacerlo a través de **nuestro formulario de reservas online**, por teléfono, por email o directamente en el restaurante. Te esperamos en C/ Albasanz 16, 28037 Madrid.
 
 ## Cómo reservar
 
-### Google Maps Reserve
-Reserva tu mesa directamente desde Google Maps:
-1. Abre Google Maps en tu móvil u ordenador
-2. Busca «Smithers Restaurant» en Madrid
-3. Haz clic en «Reservar una mesa»
-4. Selecciona fecha, hora y número de comensales
+### Reservas online
+Reserva tu mesa en cualquier momento desde nuestra web:
+1. Entra en https://www.smithersrestaurant.com/reservas
+2. Elige el número de comensales y el servicio (desayuno, comida o cena)
+3. Selecciona fecha y hora
+4. Añade tus datos de contacto
 5. ¡Confirma y listo!
 
 ### Por teléfono

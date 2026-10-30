@@ -28,7 +28,7 @@ El único servicio de reparto a domicilio de Smithers Restaurant es **Glovo**. E
 
 ## Servicios
 
-- Reservas por Google Maps Reserve, teléfono o WhatsApp
+- Reservas online en la web (reservation.dish.co), teléfono o WhatsApp
 - Eventos: hasta 140 personas sentadas, 180 en cóctel
 - Comidas de empresa
 - Terraza disponible
@@ -45,7 +45,7 @@ Abrimos de lunes a viernes a las 7:00 am. Servimos desayunos hasta las 12:00. Es
 El menú del día cuesta 16,50€ e incluye primero, segundo, postre, pan y bebida. También tenemos el Menú Shelby por 14,50€ (plato contundente + bebida).
 
 **¿Se puede reservar mesa?**
-Sí, puedes reservar a través de Google Maps Reserve o llamando al 911 699 622.
+Sí, puedes reservar online en nuestra web o llamando al 911 699 622.
 
 **¿Hacen catering para empresas?**
 Sí, llevamos Smithers a tu oficina con menús ejecutivos, bandejas de catering y coffee breaks para reuniones en empresas de la zona.
@@ -99,7 +99,7 @@ El menú del día se renueva semanalmente con producto fresco y de temporada, as
 Sí. El menú take away cuesta 13,90 € e incluye primer plato o entrante, segundo, postre o café, pan y bebida. Pide llamando al 911 699 622 o pásate por el restaurante.
 
 **¿Hace falta reservar para comer el menú del día?**
-No es imprescindible, pero a mediodía llenamos rápido. Puedes reservar por Google Maps o llamando al 911 699 622.
+No es imprescindible, pero a mediodía llenamos rápido. Puedes reservar online en nuestra web o llamando al 911 699 622.
 
 **¿Aceptáis tickets restaurante para el menú del día?**
 Puedes pagar el menú con las tarjetas de restauración de Pluxee, Edenred y Déjeuner, además de efectivo y tarjetas de crédito y débito. Los cheques o vales de papel no los admitimos.
@@ -186,7 +186,7 @@ De lunes a viernes de 12:00 a 16:30 a través de Glovo. Los horarios pueden vari
 Platos del menú del día, hamburguesas y bocadillos, ensaladas, bebidas y postres, según disponibilidad en la app.
 
 **¿Cómo reservo mesa en Smithers?**
-Puedes reservar desde Google Maps («Reservar una mesa»), llamando al 911 699 622, por email o en persona en C/ Albasanz 16.
+Puedes reservar online en nuestra web (botón «Reservar»), llamando al 911 699 622, por email o en persona en C/ Albasanz 16.
 
 **¿Cuánto tiempo se guarda la mesa reservada?**
 Mantenemos la reserva durante 15 minutos pasada la hora acordada. Si vas a llegar tarde, avísanos por teléfono.

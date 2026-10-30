@@ -33,7 +33,7 @@ El tratamiento de datos se basa en:
 Los datos personales se conservarán durante el tiempo necesario para cumplir con la finalidad para la que fueron recogidos, y en todo caso durante los plazos legales establecidos.
 
 ## Destinatarios
-No se cederán datos personales a terceros salvo obligación legal o para la correcta prestación del servicio (plataformas de reserva como Google Maps Reserve).
+No se cederán datos personales a terceros salvo obligación legal o para la correcta prestación del servicio (plataformas de reserva como DISH).
 
 ## Derechos del usuario
 El usuario puede ejercer sus derechos de acceso, rectificación, supresión, limitación, portabilidad y oposición dirigiéndose a:
